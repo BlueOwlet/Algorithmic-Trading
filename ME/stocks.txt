@@ -1,0 +1,42 @@
+<| Attempting Login |>
+<| Login Successful |>
+SPCE
+PCG
+CGC
+Stocks initiated nicely
+
+
+    Owl Trading bot V.3 | BuyOrSell() initialized
+
+    
+
+Stock SPCE
+Owned: False
+Average : 14.54615953125
+Buy point: 14.4006979359375
+Sell point: 14.837082721875
+Price point: 15.85
+Nothing
+
+Stock PCG
+Owned: False
+Average : 11.192185520833332
+Buy point: 11.080263665624999
+Sell point: 11.416029231249999
+Price point: 11.75
+Nothing
+
+Stock CGC
+Owned: False
+Average : 17.8794690625
+Buy point: 17.700674371875
+Sell point: 18.23705844375
+Price point: 19.48
+Nothing
+0
+
+
+    Owl Trading bot V.3 | BuyOrSell() initialized
+
+    
+
